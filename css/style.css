@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Ms+Madi&family=Varela+Round&display=swap);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family:'Varela Round', sans-serif; 
+	font-size-adjust: 18px;
+}
+
+h1 {
+	font-family: 'Ms Madi', cursive;
+}
+
+h2, h3 {
+	font-family:'Varela Round', sans-serif; 
+}	
+a {
+	text-decoration: none;
+	font-family:'Varela Round', sans-serif; 
+}
+
+.list-inline  {
+	list-style: none;	
+	padding-left: 0px;
+} 
+
+.list-inline i {
+	font-size: 30px;
+} 	
